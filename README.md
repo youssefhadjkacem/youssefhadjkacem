@@ -8,7 +8,6 @@ Passionate about **AI/ML**, full-stack development, cybersecurity, and building 
 - Software Engineering Intern at **Fogits** — built a Python LinkedIn lead scraper (800+ profiles) and integrated it with Odoo ERP, reducing manual work by 85%.
 - Responsible of International Affairs at **ENSI Junior Enterprise (EJE)** (2025–2026).
 - Volunteer Python & English teacher with AIESEC in Romania and Turkey.
-- Competed in national CTF (Darkest Hour 2025) and Huawei ICT Competition 2025 (National Finals).
 
 ## Featured Project — AI Emergency Savior
 **AI Emergency Savior: Adaptive Multi-Objective Optimization for Emergency Resource Recommendation**  
