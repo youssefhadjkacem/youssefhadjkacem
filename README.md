@@ -1,7 +1,7 @@
 # Hey, I'm Youssef Hadjkacem
 
 **Final-Year Computer Engineering Student at ENSI** (National School of Computer Science), Tunis, Tunisia, specializing in **Data Science & Computer Vision**.
-Currently looking for a 4 to 6 month Software Engineering / AI / Data Science internship starting **February 2027** in Europe.
+Currently looking for a 4 to 6 month Software Engineering internship.
 
 ## About Me
 - Ranked 210th out of 1,800 students during preparatory classes in mathematics before joining ENSI.
